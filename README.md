@@ -9,13 +9,13 @@ ________________________
 
 Contents
 
-Start
-License
-Introduction
-Features
-Detailed Features
-Errors (Error Handling)
-Restoring the Application
+Start | 
+License | 
+Introduction | 
+Features | 
+Detailed Features | 
+Errors (Error Handling) | 
+Restoring the Application | 
 Contents of Sample
 
 ________________________
