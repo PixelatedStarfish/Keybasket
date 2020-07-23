@@ -1,0 +1,20 @@
+Hello! Thank you for using Keybasket.
+
+If you cannot come up with one more variation of your pet's name and childhood home with a dollar sign, then this is the app for you.
+
+This application takes takes the mental gymnastics out of password creation. It takes a pool of familiar words and stitches them together with some numbers and symbols. Try it out with the sample or create a personal file of your own for customized, memorable passwords. Passwords are not stored, and there is no internet connection required.
+
+If you would rather not keep track of a password at all, use the hashing features.
+Any word can be used to hash out extra-tough passwords. Next time you need your password, run the keyword(s) through here.
+
+Give it a try! No web plug-ins or master passwords needed!
+
+For more information take a look at the readme.
+
+
+Andrew Jones Vella 
+Copyright 2020
+MIT License
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
